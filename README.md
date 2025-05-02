@@ -40,8 +40,8 @@ This project explores taxi trip data in Chicago, with a focus on:
 
 ## 📸 Visual Examples
 
-<img src="assets/top_companies.png" width="600" alt="Top 10 Cab Companies">
-<img src="assets/dropoff_locations.png" width="600" alt="Top Dropoff Locations">
+<img src="top_companies.png" width="600" alt="Top 10 Cab Companies">
+<img src="top_dropoff_locations.png" width="600" alt="Top Dropoff Locations">
 
 ---
 
